@@ -1,0 +1,542 @@
+[
+    {
+        "careerId": "frontend-dev",
+        "title": "Frontend Developer Roadmap",
+        "stages": [
+            {
+                "id": "modules-fundamentals",
+                "title": "Internet & Fundamentals",
+                "steps": [
+                    {
+                        "id": "how-internet-works",
+                        "title": "How the Internet Works",
+                        "description": "Understand the basics of HTTP, DNS, Domain Names, and Hosting.",
+                        "resources": []
+                    },
+                    {
+                        "id": "html-css-basics",
+                        "title": "HTML & CSS Basics",
+                        "description": "Learn semantic HTML5 and basic CSS properties for layout and styling.",
+                        "resources": []
+                    }
+                ]
+            },
+            {
+                "id": "core-programming",
+                "title": "JavaScript Mastery",
+                "steps": [
+                    {
+                        "id": "js-basics",
+                        "title": "JavaScript Fundamentals",
+                        "description": "Variables, data types, functions, loops, and DOM manipulation.",
+                        "resources": []
+                    },
+                    {
+                        "id": "es6-plus",
+                        "title": "Modern JavaScript (ES6+)",
+                        "description": "Arrow functions, destructuring, modules, promises, and async/await.",
+                        "resources": []
+                    }
+                ]
+            },
+            {
+                "id": "frameworks",
+                "title": "Frontend Frameworks",
+                "steps": [
+                    {
+                        "id": "react",
+                        "title": "React.js",
+                        "description": "Components, props, state, hooks, and context API.",
+                        "resources": []
+                    },
+                    {
+                        "id": "css-frameworks",
+                        "title": "CSS Frameworks",
+                        "description": "Tailwind CSS, Bootstrap, or Material UI.",
+                        "resources": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "careerId": "backend-dev",
+        "title": "Backend Developer Roadmap",
+        "stages": [
+            {
+                "id": "internet-os",
+                "title": "Internet & OS Knowledge",
+                "steps": [
+                    {
+                        "id": "terminal-usage",
+                        "title": "Terminal & Bash",
+                        "description": "Basic terminal commands and scripting.",
+                        "resources": []
+                    }
+                ]
+            },
+            {
+                "id": "language",
+                "title": "Pick a Language",
+                "steps": [
+                    {
+                        "id": "node-js",
+                        "title": "Node.js (JavaScript)",
+                        "description": "Runtime environment for executing JavaScript server-side.",
+                        "resources": []
+                    },
+                    {
+                        "id": "python",
+                        "title": "Python",
+                        "description": "Great for data-heavy apps and general backend.",
+                        "resources": []
+                    }
+                ]
+            },
+            {
+                "id": "databases",
+                "title": "Databases",
+                "steps": [
+                    {
+                        "id": "relational-db",
+                        "title": "Relational Databases (SQL)",
+                        "description": "PostgreSQL, MySQL.",
+                        "resources": []
+                    },
+                    {
+                        "id": "nosql-db",
+                        "title": "NoSQL Databases",
+                        "description": "MongoDB, Redis.",
+                        "resources": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "careerId": "fullstack-dev",
+        "title": "Full Stack Developer Roadmap",
+        "stages": [
+            {
+                "id": "foundations",
+                "title": "Foundations",
+                "steps": [
+                    {
+                        "id": "html-css-js",
+                        "title": "HTML, CSS & JS",
+                        "description": "The trilogy of the web.",
+                        "resources": []
+                    }
+                ]
+            },
+            {
+                "id": "frontend-focus",
+                "title": "Frontend Deep Dive",
+                "steps": [
+                    {
+                        "id": "react-next",
+                        "title": "React & Next.js",
+                        "description": "Server-side rendering and static site generation.",
+                        "resources": []
+                    }
+                ]
+            },
+            {
+                "id": "backend-focus",
+                "title": "Backend Engineering",
+                "steps": [
+                    {
+                        "id": "api-design",
+                        "title": "API Design",
+                        "description": "RESTful APIs and GraphQL.",
+                        "resources": []
+                    },
+                    {
+                        "id": "db-management",
+                        "title": "Database Management",
+                        "description": "ORM (Prisma) and raw SQL queries.",
+                        "resources": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "careerId": "mobile-dev",
+        "title": "Mobile Developer Roadmap",
+        "stages": [
+            {
+                "id": "mobile-basics",
+                "title": "Mobile Development Basics",
+                "steps": [
+                    {
+                        "id": "ios-android-diff",
+                        "title": "iOS vs Android",
+                        "description": "Understanding the ecosystems.",
+                        "resources": []
+                    }
+                ]
+            },
+            {
+                "id": "tech-stack",
+                "title": "Choose Your Stack",
+                "steps": [
+                    {
+                        "id": "react-native",
+                        "title": "React Native",
+                        "description": "Cross-platform development with JavaScript.",
+                        "resources": []
+                    },
+                    {
+                        "id": "flutter",
+                        "title": "Flutter",
+                        "description": "Google's UI toolkit for building natively compiled applications.",
+                        "resources": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "careerId": "data-scientist",
+        "title": "Data Scientist Roadmap",
+        "stages": [
+            {
+                "id": "math-stats",
+                "title": "Mathematics & Statistics",
+                "steps": [
+                    {
+                        "id": "linear-algebra",
+                        "title": "Linear Algebra",
+                        "description": "Matrices, vectors, and spaces.",
+                        "resources": []
+                    },
+                    {
+                        "id": "probability",
+                        "title": "Probability & Statistics",
+                        "description": "Distributions, testing, and regression.",
+                        "resources": []
+                    }
+                ]
+            },
+            {
+                "id": "programming",
+                "title": "Programming",
+                "steps": [
+                    {
+                        "id": "python-r",
+                        "title": "Python or R",
+                        "description": "The primary languages for data science.",
+                        "resources": []
+                    },
+                    {
+                        "id": "pandas-numpy",
+                        "title": "Pandas & NumPy",
+                        "description": "Data manipulation and analysis libraries.",
+                        "resources": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "careerId": "ui-ux-designer",
+        "title": "UI/UX Designer Roadmap",
+        "stages": [
+            {
+                "id": "design-fund",
+                "title": "Design Fundamentals",
+                "steps": [
+                    {
+                        "id": "color-theory",
+                        "title": "Color Theory",
+                        "description": "Psychology of colors and accessibility.",
+                        "resources": []
+                    },
+                    {
+                        "id": "typography",
+                        "title": "Typography",
+                        "description": "Fonts, hierarchy, and readability.",
+                        "resources": []
+                    }
+                ]
+            },
+            {
+                "id": "tools",
+                "title": "Design Tools",
+                "steps": [
+                    {
+                        "id": "figma",
+                        "title": "Figma",
+                        "description": "The industry standard for interface design.",
+                        "resources": []
+                    },
+                    {
+                        "id": "adobe-xd",
+                        "title": "Adobe XD",
+                        "description": "Vector-based tool for web and mobile apps.",
+                        "resources": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "careerId": "devops-engineer",
+        "title": "DevOps Engineer Roadmap",
+        "stages": [
+            {
+                "id": "os-concepts",
+                "title": "Operating Systems",
+                "steps": [
+                    {
+                        "id": "linux-admin",
+                        "title": "Linux Administration",
+                        "description": "Shell scripting, permissions, and networking.",
+                        "resources": []
+                    }
+                ]
+            },
+            {
+                "id": "ci-cd",
+                "title": "CI/CD",
+                "steps": [
+                    {
+                        "id": "actions-jenkins",
+                        "title": "GitHub Actions & Jenkins",
+                        "description": "Automating build and deployment pipelines.",
+                        "resources": []
+                    }
+                ]
+            },
+            {
+                "id": "containerization",
+                "title": "Containers & Orchestration",
+                "steps": [
+                    {
+                        "id": "docker",
+                        "title": "Docker",
+                        "description": "Containerizing applications.",
+                        "resources": []
+                    },
+                    {
+                        "id": "k8s",
+                        "title": "Kubernetes",
+                        "description": "Container orchestration.",
+                        "resources": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "careerId": "ml-engineer",
+        "title": "Machine Learning Engineer Roadmap",
+        "stages": [
+            {
+                "id": "data-prep",
+                "title": "Data Preparation",
+                "steps": [
+                    {
+                        "id": "cleaning",
+                        "title": "Data Cleaning",
+                        "description": "Handling missing data and outliers.",
+                        "resources": []
+                    }
+                ]
+            },
+            {
+                "id": "algorithms",
+                "title": "ML Algorithms",
+                "steps": [
+                    {
+                        "id": "supervised",
+                        "title": "Supervised Learning",
+                        "description": "Regression, classification.",
+                        "resources": []
+                    },
+                    {
+                        "id": "unsupervised",
+                        "title": "Unsupervised Learning",
+                        "description": "Clustering, dimensionality reduction.",
+                        "resources": []
+                    }
+                ]
+            },
+            {
+                "id": "frameworks",
+                "title": "ML Frameworks",
+                "steps": [
+                    {
+                        "id": "pytorch-tf",
+                        "title": "PyTorch or TensorFlow",
+                        "description": "Deep learning libraries.",
+                        "resources": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "careerId": "cybersecurity-analyst",
+        "title": "Cybersecurity Analyst Roadmap",
+        "stages": [
+            {
+                "id": "networking",
+                "title": "Networking Basics",
+                "steps": [
+                    {
+                        "id": "osi-model",
+                        "title": "OSI Model",
+                        "description": "Understanding network layers.",
+                        "resources": []
+                    },
+                    {
+                        "id": "protocols",
+                        "title": "Common Protocols",
+                        "description": "TCP/IP, UDP, HTTP/HTTPS.",
+                        "resources": []
+                    }
+                ]
+            },
+            {
+                "id": "security-basics",
+                "title": "Security Fundamentals",
+                "steps": [
+                    {
+                        "id": "cia-triad",
+                        "title": "CIA Triad",
+                        "description": "Confidentiality, Integrity, Availability.",
+                        "resources": []
+                    },
+                    {
+                        "id": "threats",
+                        "title": "Common Threats",
+                        "description": "Malware, Phishing, Social Engineering.",
+                        "resources": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "careerId": "cloud-architect",
+        "title": "Cloud Architect Roadmap",
+        "stages": [
+            {
+                "id": "cloud-basics",
+                "title": "Cloud Concepts",
+                "steps": [
+                    {
+                        "id": "iaas-paas-saas",
+                        "title": "IaaS, PaaS, SaaS",
+                        "description": "Service models.",
+                        "resources": []
+                    },
+                    {
+                        "id": "providers",
+                        "title": "Cloud Providers",
+                        "description": "AWS, Azure, Google Cloud.",
+                        "resources": []
+                    }
+                ]
+            },
+            {
+                "id": "architecture",
+                "title": "Architectural Patterns",
+                "steps": [
+                    {
+                        "id": "microservices",
+                        "title": "Microservices",
+                        "description": "Decoupling applications.",
+                        "resources": []
+                    },
+                    {
+                        "id": "serverless",
+                        "title": "Serverless",
+                        "description": "Computing without managing servers.",
+                        "resources": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "careerId": "blockchain-dev",
+        "title": "Blockchain Developer Roadmap",
+        "stages": [
+            {
+                "id": "crypto-basics",
+                "title": "Cryptography Basics",
+                "steps": [
+                    {
+                        "id": "hashing",
+                        "title": "Hashing & Encryption",
+                        "description": "SHA-256, Public/Private keys.",
+                        "resources": []
+                    }
+                ]
+            },
+            {
+                "id": "blockchain-tech",
+                "title": "Blockchain Fundamentals",
+                "steps": [
+                    {
+                        "id": "distributed-ledger",
+                        "title": "Distributed Ledgers",
+                        "description": "Consensus mechanisms (PoW, PoS).",
+                        "resources": []
+                    },
+                    {
+                        "id": "smart-contracts",
+                        "title": "Smart Contracts",
+                        "description": "Self-executing contracts.",
+                        "resources": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "careerId": "game-dev",
+        "title": "Game Developer Roadmap",
+        "stages": [
+            {
+                "id": "game-design",
+                "title": "Game Design Theory",
+                "steps": [
+                    {
+                        "id": "mechanics",
+                        "title": "Core Mechanics",
+                        "description": "Rules and systems.",
+                        "resources": []
+                    },
+                    {
+                        "id": "level-design",
+                        "title": "Level Design",
+                        "description": "Creating engaging environments.",
+                        "resources": []
+                    }
+                ]
+            },
+            {
+                "id": "engines",
+                "title": "Game Engines",
+                "steps": [
+                    {
+                        "id": "unity",
+                        "title": "Unity",
+                        "description": "C# based cross-platform engine.",
+                        "resources": []
+                    },
+                    {
+                        "id": "unreal",
+                        "title": "Unreal Engine",
+                        "description": "C++ based high-fidelity engine.",
+                        "resources": []
+                    }
+                ]
+            }
+        ]
+    }
+]

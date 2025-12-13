@@ -1,0 +1,122 @@
+[
+    {
+        "id": "frontend-dev",
+        "title": "Frontend Developer",
+        "description": "Build responsive and interactive user interfaces for the web using modern frameworks and tools.",
+        "icon": "Layout",
+        "difficulty": "Beginner",
+        "category": "Development",
+        "timeToLearn": "6-9 months",
+        "slug": "frontend-developer"
+    },
+    {
+        "id": "backend-dev",
+        "title": "Backend Developer",
+        "description": "Design and build server-side logic, databases, and APIs to power web applications.",
+        "icon": "Server",
+        "difficulty": "Intermediate",
+        "category": "Development",
+        "timeToLearn": "8-12 months",
+        "slug": "backend-developer"
+    },
+    {
+        "id": "fullstack-dev",
+        "title": "Full Stack Developer",
+        "description": "Master both frontend and backend development to build complete web applications from scratch.",
+        "icon": "Layers",
+        "difficulty": "Advanced",
+        "category": "Development",
+        "timeToLearn": "12-18 months",
+        "slug": "fullstack-developer"
+    },
+    {
+        "id": "mobile-dev",
+        "title": "Mobile Developer",
+        "description": "Create native or cross-platform mobile applications for iOS and Android devices.",
+        "icon": "Smartphone",
+        "difficulty": "Intermediate",
+        "category": "Mobile",
+        "timeToLearn": "9-12 months",
+        "slug": "mobile-developer"
+    },
+    {
+        "id": "data-scientist",
+        "title": "Data Scientist",
+        "description": "Analyze complex data sets to help organizations make data-driven decisions.",
+        "icon": "BarChart",
+        "difficulty": "Advanced",
+        "category": "Data",
+        "timeToLearn": "12-24 months",
+        "slug": "data-scientist"
+    },
+    {
+        "id": "ui-ux-designer",
+        "title": "UI/UX Designer",
+        "description": "Design intuitive and visually appealing user interfaces and experiences.",
+        "icon": "PenTool",
+        "difficulty": "Beginner",
+        "category": "Design",
+        "timeToLearn": "6-9 months",
+        "slug": "ui-ux-designer"
+    },
+    {
+        "id": "devops-engineer",
+        "title": "DevOps Engineer",
+        "description": "Bridge the gap between development and operations to automate deployment and ensure system reliability.",
+        "icon": "Settings",
+        "difficulty": "Advanced",
+        "category": "Infrastructure",
+        "timeToLearn": "12-18 months",
+        "slug": "devops-engineer"
+    },
+    {
+        "id": "ml-engineer",
+        "title": "Machine Learning Engineer",
+        "description": "Build and deploy machine learning models and AI systems.",
+        "icon": "Cpu",
+        "difficulty": "Advanced",
+        "category": "Data",
+        "timeToLearn": "18-24 months",
+        "slug": "machine-learning-engineer"
+    },
+    {
+        "id": "cybersecurity-analyst",
+        "title": "Cybersecurity Analyst",
+        "description": "Protect computer systems, networks, and data from security breaches and cyber attacks.",
+        "icon": "Shield",
+        "difficulty": "Intermediate",
+        "category": "Infrastructure",
+        "timeToLearn": "12-18 months",
+        "slug": "cybersecurity-analyst"
+    },
+    {
+        "id": "cloud-architect",
+        "title": "Cloud Architect",
+        "description": "Design and manage cloud computing architecture and solutions.",
+        "icon": "Cloud",
+        "difficulty": "Advanced",
+        "category": "Infrastructure",
+        "timeToLearn": "18-36 months",
+        "slug": "cloud-architect"
+    },
+    {
+        "id": "blockchain-dev",
+        "title": "Blockchain Developer",
+        "description": "Develop decentralized applications (dApps) and smart contracts on blockchain platforms.",
+        "icon": "Link",
+        "difficulty": "Advanced",
+        "category": "Development",
+        "timeToLearn": "12-18 months",
+        "slug": "blockchain-developer"
+    },
+    {
+        "id": "game-dev",
+        "title": "Game Developer",
+        "description": "Create video games for computers, consoles, or mobile devices.",
+        "icon": "Gamepad2",
+        "difficulty": "Intermediate",
+        "category": "Development",
+        "timeToLearn": "12-24 months",
+        "slug": "game-developer"
+    }
+]
