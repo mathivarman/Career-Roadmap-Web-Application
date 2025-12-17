@@ -538,5 +538,599 @@
                 ]
             }
         ]
+    },
+    {
+        "careerId": "product-manager",
+        "title": "Product Manager Roadmap",
+        "stages": [
+            {
+                "id": "fundamentals",
+                "title": "Product Management Fundamentals",
+                "steps": [
+                    {
+                        "id": "product-lifecycle",
+                        "title": "Product Lifecycle",
+                        "description": "Understanding ideation, development, launch, and growth phases.",
+                        "resources": []
+                    },
+                    {
+                        "id": "user-research",
+                        "title": "User Research",
+                        "description": "Conducting interviews, surveys, and usability tests.",
+                        "resources": []
+                    },
+                    {
+                        "id": "market-analysis",
+                        "title": "Market Analysis",
+                        "description": "Competitive analysis and market sizing.",
+                        "resources": []
+                    }
+                ]
+            },
+            {
+                "id": "strategy",
+                "title": "Product Strategy",
+                "steps": [
+                    {
+                        "id": "roadmapping",
+                        "title": "Product Roadmapping",
+                        "description": "Creating and maintaining product roadmaps.",
+                        "resources": []
+                    },
+                    {
+                        "id": "prioritization",
+                        "title": "Feature Prioritization",
+                        "description": "RICE, MoSCoW, and Kano frameworks.",
+                        "resources": []
+                    },
+                    {
+                        "id": "metrics",
+                        "title": "Product Metrics",
+                        "description": "KPIs, OKRs, and analytics.",
+                        "resources": []
+                    }
+                ]
+            },
+            {
+                "id": "execution",
+                "title": "Execution & Delivery",
+                "steps": [
+                    {
+                        "id": "agile-scrum",
+                        "title": "Agile & Scrum",
+                        "description": "Sprint planning and backlog management.",
+                        "resources": []
+                    },
+                    {
+                        "id": "stakeholder-mgmt",
+                        "title": "Stakeholder Management",
+                        "description": "Communication and alignment strategies.",
+                        "resources": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "careerId": "qa-engineer",
+        "title": "QA Engineer Roadmap",
+        "stages": [
+            {
+                "id": "testing-basics",
+                "title": "Testing Fundamentals",
+                "steps": [
+                    {
+                        "id": "test-types",
+                        "title": "Types of Testing",
+                        "description": "Unit, integration, system, and acceptance testing.",
+                        "resources": []
+                    },
+                    {
+                        "id": "test-design",
+                        "title": "Test Case Design",
+                        "description": "Writing effective test cases and scenarios.",
+                        "resources": []
+                    },
+                    {
+                        "id": "bug-tracking",
+                        "title": "Bug Tracking",
+                        "description": "Using Jira, Bugzilla, and defect lifecycle.",
+                        "resources": []
+                    }
+                ]
+            },
+            {
+                "id": "automation",
+                "title": "Test Automation",
+                "steps": [
+                    {
+                        "id": "selenium",
+                        "title": "Selenium WebDriver",
+                        "description": "Automating web application testing.",
+                        "resources": []
+                    },
+                    {
+                        "id": "api-testing",
+                        "title": "API Testing",
+                        "description": "Postman, REST Assured, and API automation.",
+                        "resources": []
+                    },
+                    {
+                        "id": "frameworks",
+                        "title": "Testing Frameworks",
+                        "description": "Jest, Cypress, Playwright, and TestNG.",
+                        "resources": []
+                    }
+                ]
+            },
+            {
+                "id": "advanced-qa",
+                "title": "Advanced QA",
+                "steps": [
+                    {
+                        "id": "performance-testing",
+                        "title": "Performance Testing",
+                        "description": "JMeter, LoadRunner, and stress testing.",
+                        "resources": []
+                    },
+                    {
+                        "id": "security-testing",
+                        "title": "Security Testing",
+                        "description": "OWASP Top 10 and vulnerability scanning.",
+                        "resources": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "careerId": "ai-engineer",
+        "title": "AI Engineer Roadmap",
+        "stages": [
+            {
+                "id": "ai-foundations",
+                "title": "AI Foundations",
+                "steps": [
+                    {
+                        "id": "python-programming",
+                        "title": "Python Programming",
+                        "description": "Advanced Python for AI development.",
+                        "resources": []
+                    },
+                    {
+                        "id": "math-ai",
+                        "title": "Mathematics for AI",
+                        "description": "Linear algebra, calculus, and probability.",
+                        "resources": []
+                    },
+                    {
+                        "id": "ml-basics",
+                        "title": "Machine Learning Basics",
+                        "description": "Supervised and unsupervised learning.",
+                        "resources": []
+                    }
+                ]
+            },
+            {
+                "id": "deep-learning",
+                "title": "Deep Learning",
+                "steps": [
+                    {
+                        "id": "neural-networks",
+                        "title": "Neural Networks",
+                        "description": "CNNs, RNNs, and Transformers.",
+                        "resources": []
+                    },
+                    {
+                        "id": "nlp",
+                        "title": "Natural Language Processing",
+                        "description": "Text processing, embeddings, and LLMs.",
+                        "resources": []
+                    },
+                    {
+                        "id": "computer-vision",
+                        "title": "Computer Vision",
+                        "description": "Image classification, object detection, and segmentation.",
+                        "resources": []
+                    }
+                ]
+            },
+            {
+                "id": "ai-deployment",
+                "title": "AI Deployment",
+                "steps": [
+                    {
+                        "id": "model-optimization",
+                        "title": "Model Optimization",
+                        "description": "Quantization, pruning, and distillation.",
+                        "resources": []
+                    },
+                    {
+                        "id": "mlops",
+                        "title": "MLOps",
+                        "description": "Model deployment, monitoring, and versioning.",
+                        "resources": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "careerId": "technical-writer",
+        "title": "Technical Writer Roadmap",
+        "stages": [
+            {
+                "id": "writing-fundamentals",
+                "title": "Writing Fundamentals",
+                "steps": [
+                    {
+                        "id": "technical-writing",
+                        "title": "Technical Writing Basics",
+                        "description": "Clear, concise, and accurate documentation.",
+                        "resources": []
+                    },
+                    {
+                        "id": "audience-analysis",
+                        "title": "Audience Analysis",
+                        "description": "Writing for different technical levels.",
+                        "resources": []
+                    },
+                    {
+                        "id": "style-guides",
+                        "title": "Style Guides",
+                        "description": "Microsoft, Google, and AP style guides.",
+                        "resources": []
+                    }
+                ]
+            },
+            {
+                "id": "documentation-types",
+                "title": "Documentation Types",
+                "steps": [
+                    {
+                        "id": "api-docs",
+                        "title": "API Documentation",
+                        "description": "OpenAPI, Swagger, and REST documentation.",
+                        "resources": []
+                    },
+                    {
+                        "id": "user-guides",
+                        "title": "User Guides",
+                        "description": "Tutorials, how-tos, and troubleshooting.",
+                        "resources": []
+                    },
+                    {
+                        "id": "release-notes",
+                        "title": "Release Notes",
+                        "description": "Documenting changes and updates.",
+                        "resources": []
+                    }
+                ]
+            },
+            {
+                "id": "tools-tech",
+                "title": "Tools & Technologies",
+                "steps": [
+                    {
+                        "id": "markdown-git",
+                        "title": "Markdown & Git",
+                        "description": "Version control for documentation.",
+                        "resources": []
+                    },
+                    {
+                        "id": "doc-platforms",
+                        "title": "Documentation Platforms",
+                        "description": "Confluence, ReadTheDocs, and Docusaurus.",
+                        "resources": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "careerId": "sre",
+        "title": "Site Reliability Engineer Roadmap",
+        "stages": [
+            {
+                "id": "sre-fundamentals",
+                "title": "SRE Fundamentals",
+                "steps": [
+                    {
+                        "id": "sla-slo-sli",
+                        "title": "SLA, SLO, SLI",
+                        "description": "Service level agreements and objectives.",
+                        "resources": []
+                    },
+                    {
+                        "id": "incident-mgmt",
+                        "title": "Incident Management",
+                        "description": "On-call, postmortems, and incident response.",
+                        "resources": []
+                    },
+                    {
+                        "id": "error-budgets",
+                        "title": "Error Budgets",
+                        "description": "Balancing reliability and velocity.",
+                        "resources": []
+                    }
+                ]
+            },
+            {
+                "id": "monitoring",
+                "title": "Monitoring & Observability",
+                "steps": [
+                    {
+                        "id": "metrics",
+                        "title": "Metrics",
+                        "description": "Prometheus, Grafana, and time-series data.",
+                        "resources": []
+                    },
+                    {
+                        "id": "logging",
+                        "title": "Logging",
+                        "description": "ELK stack, Splunk, and log aggregation.",
+                        "resources": []
+                    },
+                    {
+                        "id": "tracing",
+                        "title": "Distributed Tracing",
+                        "description": "Jaeger, Zipkin, and OpenTelemetry.",
+                        "resources": []
+                    }
+                ]
+            },
+            {
+                "id": "automation",
+                "title": "Automation & Infrastructure",
+                "steps": [
+                    {
+                        "id": "iac",
+                        "title": "Infrastructure as Code",
+                        "description": "Terraform, Ansible, and CloudFormation.",
+                        "resources": []
+                    },
+                    {
+                        "id": "chaos-engineering",
+                        "title": "Chaos Engineering",
+                        "description": "Testing system resilience.",
+                        "resources": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "careerId": "dba",
+        "title": "Database Administrator Roadmap",
+        "stages": [
+            {
+                "id": "db-fundamentals",
+                "title": "Database Fundamentals",
+                "steps": [
+                    {
+                        "id": "relational-model",
+                        "title": "Relational Model",
+                        "description": "Tables, keys, and normalization.",
+                        "resources": []
+                    },
+                    {
+                        "id": "sql-mastery",
+                        "title": "SQL Mastery",
+                        "description": "Complex queries, joins, and subqueries.",
+                        "resources": []
+                    },
+                    {
+                        "id": "acid-properties",
+                        "title": "ACID Properties",
+                        "description": "Transactions and data integrity.",
+                        "resources": []
+                    }
+                ]
+            },
+            {
+                "id": "db-systems",
+                "title": "Database Systems",
+                "steps": [
+                    {
+                        "id": "postgresql-mysql",
+                        "title": "PostgreSQL & MySQL",
+                        "description": "Installation, configuration, and management.",
+                        "resources": []
+                    },
+                    {
+                        "id": "nosql-dbs",
+                        "title": "NoSQL Databases",
+                        "description": "MongoDB, Cassandra, and Redis.",
+                        "resources": []
+                    },
+                    {
+                        "id": "cloud-dbs",
+                        "title": "Cloud Databases",
+                        "description": "RDS, DynamoDB, and Cloud SQL.",
+                        "resources": []
+                    }
+                ]
+            },
+            {
+                "id": "db-operations",
+                "title": "Database Operations",
+                "steps": [
+                    {
+                        "id": "performance-tuning",
+                        "title": "Performance Tuning",
+                        "description": "Indexing, query optimization, and caching.",
+                        "resources": []
+                    },
+                    {
+                        "id": "backup-recovery",
+                        "title": "Backup & Recovery",
+                        "description": "Disaster recovery and high availability.",
+                        "resources": []
+                    },
+                    {
+                        "id": "security",
+                        "title": "Database Security",
+                        "description": "Access control, encryption, and auditing.",
+                        "resources": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "careerId": "ar-vr-dev",
+        "title": "AR/VR Developer Roadmap",
+        "stages": [
+            {
+                "id": "3d-fundamentals",
+                "title": "3D Fundamentals",
+                "steps": [
+                    {
+                        "id": "3d-math",
+                        "title": "3D Mathematics",
+                        "description": "Vectors, matrices, and quaternions.",
+                        "resources": []
+                    },
+                    {
+                        "id": "3d-modeling",
+                        "title": "3D Modeling",
+                        "description": "Blender, Maya, and asset creation.",
+                        "resources": []
+                    },
+                    {
+                        "id": "computer-graphics",
+                        "title": "Computer Graphics",
+                        "description": "Rendering, shaders, and lighting.",
+                        "resources": []
+                    }
+                ]
+            },
+            {
+                "id": "ar-vr-platforms",
+                "title": "AR/VR Platforms",
+                "steps": [
+                    {
+                        "id": "unity-ar-vr",
+                        "title": "Unity for AR/VR",
+                        "description": "XR Interaction Toolkit and development.",
+                        "resources": []
+                    },
+                    {
+                        "id": "arkit-arcore",
+                        "title": "ARKit & ARCore",
+                        "description": "Mobile AR development.",
+                        "resources": []
+                    },
+                    {
+                        "id": "webxr",
+                        "title": "WebXR",
+                        "description": "Browser-based AR/VR experiences.",
+                        "resources": []
+                    }
+                ]
+            },
+            {
+                "id": "advanced-xr",
+                "title": "Advanced XR",
+                "steps": [
+                    {
+                        "id": "spatial-audio",
+                        "title": "Spatial Audio",
+                        "description": "3D sound and immersive audio.",
+                        "resources": []
+                    },
+                    {
+                        "id": "hand-tracking",
+                        "title": "Hand Tracking",
+                        "description": "Gesture recognition and interaction.",
+                        "resources": []
+                    },
+                    {
+                        "id": "optimization",
+                        "title": "XR Optimization",
+                        "description": "Performance for VR headsets.",
+                        "resources": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "careerId": "iot-engineer",
+        "title": "IoT Engineer Roadmap",
+        "stages": [
+            {
+                "id": "iot-basics",
+                "title": "IoT Fundamentals",
+                "steps": [
+                    {
+                        "id": "embedded-systems",
+                        "title": "Embedded Systems",
+                        "description": "Microcontrollers and embedded programming.",
+                        "resources": []
+                    },
+                    {
+                        "id": "sensors-actuators",
+                        "title": "Sensors & Actuators",
+                        "description": "Temperature, motion, and control devices.",
+                        "resources": []
+                    },
+                    {
+                        "id": "electronics",
+                        "title": "Electronics Basics",
+                        "description": "Circuits, voltage, and current.",
+                        "resources": []
+                    }
+                ]
+            },
+            {
+                "id": "iot-platforms",
+                "title": "IoT Platforms",
+                "steps": [
+                    {
+                        "id": "arduino-raspberry",
+                        "title": "Arduino & Raspberry Pi",
+                        "description": "Popular IoT development boards.",
+                        "resources": []
+                    },
+                    {
+                        "id": "esp32",
+                        "title": "ESP32 & ESP8266",
+                        "description": "WiFi-enabled microcontrollers.",
+                        "resources": []
+                    },
+                    {
+                        "id": "iot-protocols",
+                        "title": "IoT Protocols",
+                        "description": "MQTT, CoAP, and LoRaWAN.",
+                        "resources": []
+                    }
+                ]
+            },
+            {
+                "id": "iot-cloud",
+                "title": "IoT Cloud & Analytics",
+                "steps": [
+                    {
+                        "id": "cloud-platforms",
+                        "title": "Cloud IoT Platforms",
+                        "description": "AWS IoT, Azure IoT Hub, Google Cloud IoT.",
+                        "resources": []
+                    },
+                    {
+                        "id": "data-analytics",
+                        "title": "IoT Data Analytics",
+                        "description": "Processing and visualizing sensor data.",
+                        "resources": []
+                    },
+                    {
+                        "id": "edge-computing",
+                        "title": "Edge Computing",
+                        "description": "Processing data at the edge.",
+                        "resources": []
+                    }
+                ]
+            }
+        ]
     }
 ]

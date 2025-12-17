@@ -118,5 +118,85 @@
         "category": "Development",
         "timeToLearn": "12-24 months",
         "slug": "game-developer"
+    },
+    {
+        "id": "product-manager",
+        "title": "Product Manager",
+        "description": "Define product vision, strategy, and roadmap while coordinating cross-functional teams.",
+        "icon": "Briefcase",
+        "difficulty": "Intermediate",
+        "category": "Management",
+        "timeToLearn": "12-18 months",
+        "slug": "product-manager"
+    },
+    {
+        "id": "qa-engineer",
+        "title": "QA Engineer",
+        "description": "Ensure software quality through testing, automation, and quality assurance processes.",
+        "icon": "CheckCircle",
+        "difficulty": "Beginner",
+        "category": "Development",
+        "timeToLearn": "6-12 months",
+        "slug": "qa-engineer"
+    },
+    {
+        "id": "ai-engineer",
+        "title": "AI Engineer",
+        "description": "Develop artificial intelligence systems, neural networks, and deep learning models.",
+        "icon": "Brain",
+        "difficulty": "Advanced",
+        "category": "Data",
+        "timeToLearn": "18-36 months",
+        "slug": "ai-engineer"
+    },
+    {
+        "id": "technical-writer",
+        "title": "Technical Writer",
+        "description": "Create clear documentation, guides, and technical content for software products.",
+        "icon": "FileText",
+        "difficulty": "Beginner",
+        "category": "Content",
+        "timeToLearn": "6-9 months",
+        "slug": "technical-writer"
+    },
+    {
+        "id": "sre",
+        "title": "Site Reliability Engineer",
+        "description": "Ensure system reliability, scalability, and performance through automation and monitoring.",
+        "icon": "Activity",
+        "difficulty": "Advanced",
+        "category": "Infrastructure",
+        "timeToLearn": "12-24 months",
+        "slug": "site-reliability-engineer"
+    },
+    {
+        "id": "dba",
+        "title": "Database Administrator",
+        "description": "Manage, optimize, and secure databases to ensure data integrity and performance.",
+        "icon": "Database",
+        "difficulty": "Intermediate",
+        "category": "Data",
+        "timeToLearn": "9-15 months",
+        "slug": "database-administrator"
+    },
+    {
+        "id": "ar-vr-dev",
+        "title": "AR/VR Developer",
+        "description": "Build immersive augmented and virtual reality experiences and applications.",
+        "icon": "Glasses",
+        "difficulty": "Advanced",
+        "category": "Development",
+        "timeToLearn": "12-24 months",
+        "slug": "ar-vr-developer"
+    },
+    {
+        "id": "iot-engineer",
+        "title": "IoT Engineer",
+        "description": "Design and develop Internet of Things devices and connected systems.",
+        "icon": "Wifi",
+        "difficulty": "Intermediate",
+        "category": "Development",
+        "timeToLearn": "12-18 months",
+        "slug": "iot-engineer"
     }
 ]

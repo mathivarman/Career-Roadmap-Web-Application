@@ -29,8 +29,8 @@ export function Navbar() {
     return (
         <nav
             className={`fixed top-0 left-0 w-full z-50 transition-all duration-300 ${scrolled
-                    ? "bg-background/80 backdrop-blur-md border-b border-border shadow-sm"
-                    : "bg-transparent"
+                ? "bg-background/80 backdrop-blur-md border-b border-border shadow-sm"
+                : "bg-transparent"
                 }`}
         >
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -46,28 +46,25 @@ export function Navbar() {
                     </Link>
 
                     {/* Desktop Navigation */}
-                    <div className="hidden md:flex items-center gap-8">
-                        <div className="flex gap-6">
-                            {navLinks.map((link) => (
-                                <Link
-                                    key={link.name}
-                                    href={link.href}
-                                    className={`text-sm font-medium transition-colors hover:text-primary relative group ${pathname === link.href
-                                            ? "text-primary"
-                                            : "text-muted-foreground"
-                                        }`}
-                                >
-                                    {link.name}
-                                    {pathname === link.href && (
-                                        <motion.div
-                                            layoutId="underline"
-                                            className="absolute left-0 right-0 -bottom-1 h-0.5 bg-primary"
-                                        />
-                                    )}
-                                </Link>
-                            ))}
-                        </div>
-                        <Button size="sm">Get Started</Button>
+                    <div className="hidden md:flex items-center gap-6">
+                        {navLinks.map((link) => (
+                            <Link
+                                key={link.name}
+                                href={link.href}
+                                className={`text-sm font-medium transition-colors hover:text-primary relative group ${pathname === link.href
+                                    ? "text-primary"
+                                    : "text-muted-foreground"
+                                    }`}
+                            >
+                                {link.name}
+                                {pathname === link.href && (
+                                    <motion.div
+                                        layoutId="underline"
+                                        className="absolute left-0 right-0 -bottom-1 h-0.5 bg-primary"
+                                    />
+                                )}
+                            </Link>
+                        ))}
                     </div>
 
                     {/* Mobile Menu Button */}
@@ -98,16 +95,13 @@ export function Navbar() {
                                     href={link.href}
                                     onClick={() => setIsOpen(false)}
                                     className={`block text-base font-medium transition-colors hover:text-primary ${pathname === link.href
-                                            ? "text-primary bg-primary/5 rounded-md px-3 py-2"
-                                            : "text-muted-foreground px-3 py-2"
+                                        ? "text-primary bg-primary/5 rounded-md px-3 py-2"
+                                        : "text-muted-foreground px-3 py-2"
                                         }`}
                                 >
                                     {link.name}
                                 </Link>
                             ))}
-                            <div className="pt-2">
-                                <Button className="w-full">Get Started</Button>
-                            </div>
                         </div>
                     </motion.div>
                 )}
