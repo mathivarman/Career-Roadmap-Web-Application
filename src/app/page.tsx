@@ -290,7 +290,7 @@ export default function Home() {
             </div>
             <h3 className="text-2xl font-semibold mb-2">No careers found</h3>
             <p className="text-muted-foreground text-lg mb-6">
-              We couldn't find any careers matching "{searchQuery}". Try a different search term.
+              We couldn&apos;t find any careers matching &quot;{searchQuery}&quot;. Try a different search term.
             </p>
             <Button
               variant="outline"

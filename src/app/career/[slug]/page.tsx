@@ -60,7 +60,6 @@ export default async function CareerPage({ params }: PageProps) {
     }
 
     // Dynamic Icon
-    // eslint-disable-next-line @typescript-eslint/no-explicit-any
     const IconComponent = (Icons as any)[career.icon] || Icons.Code;
 
     // Calculate stats

@@ -13,7 +13,6 @@ interface CareerCardProps {
 
 export function CareerCard({ career, index }: CareerCardProps) {
     // Dynamic Icon Component
-    // eslint-disable-next-line @typescript-eslint/no-explicit-any
     const IconComponent = (Icons as any)[career.icon] || Icons.Code;
 
     const difficultyColor = {
